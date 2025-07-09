@@ -43,6 +43,7 @@ body {
   color: rgba(225,225,225, .01);
   background-image: url("https://4kwallpapers.com/images/walls/thumbs_3t/16157.jpg");
   background-repeat: repeat;
+  background-image: cover;
   -webkit-background-clip:text;
   animation: animate 10s ease-in-out infinite;
   text-align: center;

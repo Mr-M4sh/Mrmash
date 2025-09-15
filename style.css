@@ -1,9 +1,8 @@
 /* --- BASE & VARIABLES --- */
 :root {
     /* To change theme, just change these two colors! */
-    --primary-color: #6a11cb;
-    --secondary-color: #640404;
-    
+    --primary-color: #4c0e8f;
+    --secondary-color: #7e0d0d;
     --bg-color: #121212;
     --surface-color: #1e1e1e;
     --text-color: #e0e0e0;
@@ -352,3 +351,4 @@ footer p {
         flex-direction: column;
     }
 }
+
